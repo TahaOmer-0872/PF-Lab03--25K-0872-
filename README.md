@@ -7,5 +7,5 @@
 _This is Project_\
 ~~This is Project~~\
 ### links
-.[g](https://www.google.cpm "google")
+.[google](https://www.google.com)
 '
