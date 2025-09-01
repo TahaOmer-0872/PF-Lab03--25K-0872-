@@ -17,8 +17,7 @@ _This is Project_\
 1. Muneeb
 2. Taha
 3. Omer
-4. this is an ordered list
-    1. meow
+    1. this is an ordered list
 - image
 - google
 - insta
@@ -26,4 +25,8 @@ _This is Project_\
 - this is an unordered list
 
 >this is project
+subscript
+superscript
 
+- [ ] task1
+- [X] task 2
