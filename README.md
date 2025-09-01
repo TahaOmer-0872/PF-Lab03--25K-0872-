@@ -17,7 +17,7 @@ _This is Project_\
 1. Muneeb
 1. Taha
 2. Omer
-3. this is an ordered list
+  - this is an ordered list
 - image
 - google
 - insta
@@ -25,3 +25,4 @@ _This is Project_\
 - this is an unordered list
 
 >this is project
+
