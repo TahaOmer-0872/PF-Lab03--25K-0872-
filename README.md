@@ -17,7 +17,7 @@ _This is Project_\
 1. Muneeb
 1. Taha
 2. Omer
-3.   this is an ordered list
+  3. this is an ordered list
 - image
 - google
 - insta
