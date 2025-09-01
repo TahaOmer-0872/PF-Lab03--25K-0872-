@@ -15,11 +15,10 @@ _This is Project_\
 
 #list
 1. Muneeb
-1. Taha
-2. Omer
-1. this is an ordered list
-2.     Step 3.2
-3.     Step 3.3
+2. Taha
+3. Omer
+4. this is an ordered list
+    1. meow
 - image
 - google
 - insta
